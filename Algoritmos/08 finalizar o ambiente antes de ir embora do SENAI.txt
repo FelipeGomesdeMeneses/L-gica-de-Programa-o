@@ -1,0 +1,9 @@
+1 passo - Desligar o notebook
+2 passo - pegar panos
+3 passo - borrifar álcool
+4 passo - limpar o notebook
+5 passo - limpar o mouse
+6 passo - esperar o número do seu mouse ser chamado
+7 passo - quando chamarem levar o mouse para guardarem
+8 passo - logo em seguida guardar o notebook
+9 passo - esperar ser liberado
