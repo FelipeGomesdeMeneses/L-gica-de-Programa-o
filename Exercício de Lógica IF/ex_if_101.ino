@@ -17,7 +17,7 @@ void loop()
   while( ! Serial.available () );
   percentual = Serial.parseFloat();
   
-  float precodevenda = preco + (preco * percentual);
+  float precodevenda = preco + (preco / 100 * percentual);
   Serial.println("Valor de venda do produto: " + String (precodevenda));
   
   if (percentual<0.5){
